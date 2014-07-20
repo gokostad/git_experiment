@@ -12,3 +12,7 @@ if (this is dev)
 {
     this is development
 }
+if (this is dev)
+{
+    this is dev. third commit. tring to squash them all in one commit. 
+}
