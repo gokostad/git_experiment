@@ -1,14 +1,13 @@
 This is development branch file
 This is after merging firmware into the dev branch
 
+<<<<<<< HEAD
 if (this is dev)
 {
     this is development branch
 }
 else
 {}
-this is from firmware branch change.
-how merging work, testing of this.
 
 if (this is dev)
 {
@@ -20,3 +19,7 @@ if (this is dev)
 }
 
 now i will want to merge with firmware branch
+=======
+this is from firmware branch change.
+how merging work, testing of this.
+>>>>>>> firmware
