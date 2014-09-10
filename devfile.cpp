@@ -1,22 +1,14 @@
-This is development branch file
-This is after merging firmware into the dev branch
+#include <stdio.h>
 
-if (this is dev)
-{
-    this is development branch
-}
-else
-{}
-this is from firmware branch change.
-how merging work, testing of this.
+#include "facebook.h"
 
-if (this is dev)
+int main(int argc, char ** argv)
 {
-    this is development
-}
-if (this is dev)
-{
-    this is dev. third commit. tring to squash them all in one commit. 
-}
+    int i = 0;
 
-now i will want to merge with firmware branch
+    for (int i = argc; i >= 0; i--)
+    {
+        printf("\n");
+    }
+    return 0;
+}
