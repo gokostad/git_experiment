@@ -16,6 +16,8 @@ int main(int argc, char ** argv)
     for (int i = argc; i >= 0; i--)
     {
         printf("\n");
+        for (int j = 0; j < 10; j++)
+            ;
     }
     return 0;
 }
