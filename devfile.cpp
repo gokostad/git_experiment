@@ -15,7 +15,8 @@ int main(int argc, char ** argv)
 
     for (int i = argc; i >= 0; i--)
     {
-        printf("\n");
+        //printf("\n");
+        getchar();
     }
     return 0;
 }
