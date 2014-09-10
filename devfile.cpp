@@ -18,6 +18,8 @@ int main(int argc, char ** argv)
         printf("\n");
         for (int j = 0; j < 10; j++)
             ;
+        //printf("\n");
+        getchar();
     }
     return 0;
 }
