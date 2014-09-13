@@ -19,7 +19,7 @@ int main(int argc, char ** argv)
 
 int xGet()
 {
-    return 1;
+    return 4;
 }
 
 int xGetY()
