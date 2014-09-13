@@ -4,8 +4,8 @@
 
 int main(int argc, char ** argv)
 {
-    long i = 0; // changes on remote
-    
+    double i = 0;
+
     for (int i = argc; i >= 0; i--)
     {
         printf("\n");
