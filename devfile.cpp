@@ -26,6 +26,11 @@ int main(int argc, char ** argv)
 
 int xGet()
 {
+    return 1;
+}
+
+int xGetY()
+{
     return 2;
 }
 
