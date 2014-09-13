@@ -21,7 +21,7 @@ int main(int argc, char ** argv)
         //printf("\n");
         getchar();
     }
-    return 0;
+    return 1;
 }
 
 int xGet()

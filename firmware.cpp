@@ -24,3 +24,7 @@ void newMain(void)
     //is this too complex for merging
 }
 
+int xDevBranch(void)
+{
+    return 1;
+}
