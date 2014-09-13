@@ -29,3 +29,8 @@ int xGet()
     //this is prototype for new git 
 }
 
+int callMeFirst(void)
+{
+    int i = 0;
+}
+
