@@ -23,5 +23,5 @@ void newMain(void)
 
 int xDevBranch(void)
 {
-    return 1;
+    return 2;
 }
