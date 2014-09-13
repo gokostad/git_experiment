@@ -6,3 +6,14 @@ if (this is firmware)
 {
     this is firmware branch 
 }
+
+
+int getFirmwareVersion(void)
+{
+    int i = 0;
+    i++;
+    for (int j = k; i < k; j++)
+    {
+        //this is never ending looping
+    }
+}
