@@ -23,3 +23,9 @@ int main(int argc, char ** argv)
     }
     return 0;
 }
+
+int xGet()
+{
+    //this is prototype for new git 
+}
+
