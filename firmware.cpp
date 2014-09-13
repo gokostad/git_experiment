@@ -3,7 +3,7 @@ if (this is firmware)
 {
     this is firmware branch 
 
-    return 32;
+    return 132;
 }
 
 int getFirmwareVersion(void)
