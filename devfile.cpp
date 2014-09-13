@@ -24,6 +24,11 @@ int main(int argc, char ** argv)
     return 1;
 }
 
+int xGetY()
+{
+    //this is prototype for new git
+}
+
 int xGet()
 {
     //this is prototype for new git 
