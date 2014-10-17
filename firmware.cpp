@@ -31,3 +31,9 @@ void devBranch(void)
     //this is development branch
     //how we can do checy pick of this code from firmware
 }
+
+void devBranch(void)
+{
+    //this is development branch second commit
+    //how we can do checy pick previous code firmware
+}
