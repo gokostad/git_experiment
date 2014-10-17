@@ -25,3 +25,9 @@ int xDevBranch(void)
 {
     return 2;
 }
+
+void devBranch(void)
+{
+    //this is development branch
+    //how we can do checy pick of this code from firmware
+}
