@@ -1,10 +1,3 @@
-/*
-This is development branch file
-This is after merging firmware into the dev branch
-
-this is from firmware branch change.
-how merging work, testing of this.
-*/
 #include <stdio.h>
 
 #include "facebook.h"
@@ -26,7 +19,7 @@ int main(int argc, char ** argv)
 
 int xGet()
 {
-    return 1;
+    return 4;
 }
 
 int xGetY()
